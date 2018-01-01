@@ -1,4 +1,4 @@
 2018.1.1
-hahahahhaahhahahahaha
-asdfasf
+git is a distributed version control systom
 git is a free software distributed under the GPL
+git has a mutable index called index
